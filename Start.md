@@ -12,3 +12,5 @@ git config --get https.proxy
 取消：
 git config --global --unset http.proxy
 git config --global --unset https.proxy
+
+Git Pro在线阅读: https://git-scm.com/book/en/v2
